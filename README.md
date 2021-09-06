@@ -12,7 +12,7 @@ CREATE TABLE employee (
 ```
 2._Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim._
 [Mockroo](https://www.mockaroo.com) ya tıklayarak sizde kendi tablonuzu oluşturabilirsiniz.
-![kod örneği](file:///Users/apple/Desktop/Ekran%20Resmi%202021-09-06%2017.58.33.png)
+![kod örneği](file:///Users/apple/Desktop/Ekran%20Resmi%202021-09-06%2016.49.17.png)
 
 3._Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım._
 ```sql
